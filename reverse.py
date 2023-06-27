@@ -1,4 +1,4 @@
-x = "1234abcd"
+
 def my_string(x):
   return x[::-1]
 
